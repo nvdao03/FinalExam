@@ -1,0 +1,5 @@
+.custom-grid {
+  display: grid;
+  column-gap: 30px;
+  grid-template-columns: 8fr 4fr;
+}
